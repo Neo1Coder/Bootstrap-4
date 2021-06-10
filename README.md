@@ -10,7 +10,7 @@ Open file "index.html" in web-browser in order to view the webpage​
 Websites:
 ​
 
-Github: https://github.com/Neo1Coder/Museum-of-Candy
-Deployed: https://neo1coder.github.io/Museum-of-Candy/
+Github: https://github.com/Neo1Coder/Bootstrap-4
+Deployed:https://neo1coder.github.io/Bootstrap-4/
 
-[website:] (../asssets/imgs/MofC-Screenshot.png)#Bootsreap-4
+[website:](../assets/images/MofC-Screenshot.png)
